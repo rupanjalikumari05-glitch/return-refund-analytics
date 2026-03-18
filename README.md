@@ -32,23 +32,18 @@ Fashion e-commerce companies face high return rates due to:
 * Revenue Lost: ₹19,69,787
 
 ---
-
 ## 📊 Dashboard Preview
 
-"C:\Users\rupan\OneDrive\Desktop\Return & refund project\dashboard.png"
+[![Dashboard](dashboard.png)](dashboard.png)
 
-
----
 
 ## 📂 Project Files
-
-* customers.csv
-* products.csv
-* orders.csv
-* returns.csv
-* return_refund_analysis.ipynb
-* Return_Refund_Analytics.pbix
-
+- [customers.csv](customers.csv)  
+- [products.csv](products.csv)  
+- [orders.csv](orders.csv)  
+- [returns.csv](returns.csv)  
+- [return_refund_analysis.ipynb](return_refund_analysis.ipynb)  
+- [Return_Refund_Analytics.pbix](Return_Refund_Analytics.pbix)  
 
 
 ---
